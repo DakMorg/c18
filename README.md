@@ -37,6 +37,7 @@ run: node server.js
 
 ## Snips
 
+<img width="1896" alt="c18snip" src="https://user-images.githubusercontent.com/108765820/211448977-a660a272-b24c-465f-ade1-971f1be40e97.PNG">
 
 
 
